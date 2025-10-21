@@ -58,4 +58,4 @@ format:
   docx:
     toc: true
     number-sections: true
-    toc-depth: 2
+    toc-depth: 2 
