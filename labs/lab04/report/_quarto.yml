@@ -12,7 +12,15 @@ toc: true
 toc-title: "Содержание"
 toc-depth: 2
 ## Crossref customization
+citeproc: false
 crossref:
+  chapters: true
+  fig-prefix: "Рис."
+  tbl-prefix: "Таблица"
+  lst-prefix: "Листинг"
+  fig-title: "Рисунок"
+  tbl-title: "Таблица"
+  lst-title: "Листинг"
   lof-title: "Список иллюстраций"
   lot-title: "Список таблиц"
   lol-title: "Листинги"
